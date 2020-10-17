@@ -1,17 +1,20 @@
 <div align="center">
-  <h1>Hi there, I'm Onyet. 👋</h1>
+  <h1>🐵 Hi there, We're Onyet. <img src="onyet_animation_001.gif" width="32" /> <img src="thumb.png" width="32" /></h1>
   <h5><img src="https://pronoun.cyou/x/y?subject=Dian%20Mukti%20Wibowo&object=Farda%20Fitriyanti&height=20" alt="Dian Mukti Wibowo /  Farda Fitriyanti" /></h5>
-  <img src="onyet_animation_001.gif" width="100" />
+  <img src="g6293.png" alt="Flying Onyet" width="300"/>
 </div>
 
+<h2 align="center">🔭 I’m currently working on</h2>
 
-Here are some ideas to get you started:
+<h2 align="center">🌱 I’m currently learning<h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<h2 align="center">👯 I’m looking to collaborate on</h2>
+
+<h2 align="center">🤔 I’m looking for help</h2>
+
+<h2 align="center">💬 Ask me</h2>
+
+<h2 align="center">📫 How to reach me</h2>
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
