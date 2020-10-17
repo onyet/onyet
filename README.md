@@ -1,7 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Onyet. 👋</h1>
+  <h5><img src="https://pronoun.cyou/x/y?subject=Dian%20Mukti%20Wibowo&object=Farda%20Fitriyanti&height=20" alt="Dian Mukti Wibowo /  Farda Fitriyanti" /></h5>
+  <img src="onyet_animation_001.gif" width="100" />
+</div>
 
-<!--
-**onyet/onyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
