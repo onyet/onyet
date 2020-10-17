@@ -48,6 +48,7 @@
 # 🤔 We're looking for help
 
 - [OnyetCBT](https://github.com/onyet/onyetcbt) - <b>Alpha:</b> Computer Base Test for SD, SPM, SMA (Primary, Junior & Senior High School).
+- [Shareku Web Test](https://github.com/onyet/shareku) - <b>Alpha:</b> Free File Sharing without Ads.
 
 # 💬 Ask us & 📫 How to reach us
 
