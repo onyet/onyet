@@ -4,7 +4,6 @@
   <img src="g6293.png" alt="Flying Onyet" width="300"/>
 </div>
 <br>
-<br>
 
 # 🔭 We're currently working on
 
@@ -25,7 +24,7 @@
 - [Arduino](https://www.arduino.cc) - Sometimes, you have to try to get into the realm of hardware to have a deeper understanding of how computers work.
 - [Dragino](https://www.dragino.com) - We use Dragino as Gateway for all Arduino devices connected using Lora.
 
-# We use tools
+# 🛠 We use tools
 
 ### Code 🐱‍💻
 
