@@ -62,7 +62,7 @@ If you have any questions, please contact us via email.
 If you think that what we have developed is useful for you, feel free to buy us a cup of coffee.
 
 - <a href="https://saweria.co/onyet"><img src="https://saweria.co/_next/static/images/doggo_working-4371954c7e8335d10ec9caf8e3385a27.svg" width="20" /> Saweria</a>
-- <a href=""><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" width="70" /></a>
+- <a href="https://www.paypal.me/onyetcorp"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" width="70" /></a>
 
 # 😄 Pronouns: <b>We/Our/Us</b>
 
