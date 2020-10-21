@@ -11,6 +11,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | <a href="https://egrotek.com"><img src="https://egrotek.com/wp-content/uploads/2019/07/official-logo-egrotek.png" width="90"/></a> | <a href="http://www.kopkarsentra.com"><img src="kopkar.png" width="70"/></a> | <a href="https://mefo.store"><img src="https://mefo.store/assets/brand/mefo_logo.png" width="90" /></a> | <a href="https://www.spmnasionalpwt.sch.id"><img src="https://www.spmnasionalpwt.sch.id/media_library/images/b1a95c4bd4aca15465e6bd36dfcd0a53.png" width="70"/></a> | <a href="http://aksifm.com">AksiFM 93.9 MHz</a> | <a href="https://lorawan.egrotek.id"><img src="lorawan.png" width="90" /></a> |
 
+Note : The list above leads to the official website of the project holder we are working on. It's not their site that we work on.
 
 # 🌱 We're currently learning
 
