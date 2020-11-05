@@ -65,6 +65,10 @@ If you think that what we have developed is useful for you, feel free to buy us 
 - <a href="https://saweria.co/onyet"><img src="https://saweria.co/_next/static/images/doggo_working-4371954c7e8335d10ec9caf8e3385a27.svg" width="20" /> Saweria</a>
 - <a href="https://www.paypal.me/onyetcorp"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" width="70" /></a>
 
+Or if you wish to donate via our bank account, here are the bank accounts we provide.
+
+- <b>Bank BCA</b> : 0461-869636 A/n <b>Dian Mukti Wibowo</b>
+
 # 😄 Pronouns: <b>We/Our/Us</b>
 
 - Dian Mukti Wibowo <img src="https://pronoun.cyou/x/y?subject=He&object=Him/Hiss&height=20">
