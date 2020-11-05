@@ -54,8 +54,7 @@ Note : The list above leads to the official website of the project holder we are
 
 If you have any questions, please contact us via email.
 
-- [admin@shareku.net](mailto:admin@shareku.net)
-- [onyet@shareku.net](mailto:onyet@shareku.net)
+- [onyetcorp@gmail.com](mailto:onyetcorp@gmail.com)
 - [mutelitcorp@gmail.com](mailto:mutelitcorp@gmail.com)
 
 # 🎁 Donate
