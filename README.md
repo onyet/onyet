@@ -77,3 +77,9 @@ Or if you wish to donate via our bank account, here are the bank accounts we pro
 
 We work to be happy. but we also enjoy all the workloads at hand. ✨😉🤦‍♂️🤦‍♀️
 <b>We are very grateful for what God has given us. And we hope you are also grateful every time for what we have received.</b>
+
+# 🥽 Hello Word!
+
+![github stats](https://github-readme-stats.vercel.app/api?username=onyet&show_icons=true)
+
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=onyet&layout=compact)
