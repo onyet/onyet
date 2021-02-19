@@ -25,26 +25,6 @@ Note : The list above leads to the official website of the project holder we are
 - [Arduino](https://www.arduino.cc) - Sometimes, you have to try to get into the realm of hardware to have a deeper understanding of how computers work.
 - [Dragino](https://www.dragino.com) - We use Dragino as Gateway for all Arduino devices connected using Lora.
 
-# 🛠 We use tools
-
-### Code 🐱‍💻
-
-- [Visual Studio Code](https://code.visualstudio.com) ❤
-- [XCode](https://developer.apple.com/xcode)
-- [Android Studio](https://developer.android.com/studio)
-- [Notepad++](https://notepad-plus-plus.org)
-- [NodeJS](https://nodejs.org)
-- [Nano](https://www.nano-editor.org)
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
-- [Sublime Text 3 Free](https://www.sublimetext.com)
-
-### Design 🐱‍👤
-
-- [InkScape](https://inkscape.org) ❤
-- [Figma](https://www.figma.com)
-- [Sketch](https://www.sketch.com)
-- [Adobe XD](https://www.adobe.com/products/xd.html)
-
 # 🤔 We're looking for help
 
 - [OnyetCBT](https://github.com/onyet/onyetcbt) - <b>Alpha:</b> Computer Base Test for SD, SPM, SMA (Primary, Junior & Senior High School).
