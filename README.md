@@ -5,14 +5,6 @@
 </div>
 <br>
 
-# 🔭 We're currently working on
-
-| Egrotek | Kopkarsentra | Mefomart | SPM Purwokerto | Aksi FM | LoraWAN |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <a href="https://egrotek.com"><img src="https://egrotek.com/wp-content/uploads/2019/07/official-logo-egrotek.png" width="90"/></a> | <a href="http://www.kopkarsentra.com"><img src="kopkar.png" width="70"/></a> | <a href="https://mefo.store"><img src="http://mefo.store/assets/brand/mefo_logo.png" width="90" /></a> | <a href="https://www.spmnasionalpwt.sch.id"><img src="https://www.spmnasionalpwt.sch.id/media_library/images/b1a95c4bd4aca15465e6bd36dfcd0a53.png" width="70"/></a> | <a href="http://aksifm.com">AksiFM 93.9 MHz</a> | <a href="https://lorawan.egrotek.id"><img src="lorawan.png" width="90" /></a> |
-
-Note : The list above leads to the official website of the project holder we are working on. It's not their site that we work on.
-
 # 🌱 We're currently learning
 
 - [Angular](https://angular.io) - We ❤ this framework, because fast, automation, powerfull, incredible tooling, and we can build apps for any deployment target. For web, mobile web, native mobile and native desktop.
@@ -53,12 +45,7 @@ Or if you wish to donate via our bank account, here are the bank accounts we pro
 - Dian Mukti Wibowo <img src="https://pronoun.cyou/x/y?subject=He&object=Him/Hiss&height=20">
 - Farda Fitriyanti <img src="https://pronoun.cyou/x/y?subject=She&object=Her/Hers&height=20">
 
-# ⚡ Fun fact
-
-We work to be happy. but we also enjoy all the workloads at hand. ✨😉🤦‍♂️🤦‍♀️
-<b>We are very grateful for what God has given us. And we hope you are also grateful every time for what we have received.</b>
-
-# 🥽 Hello Word!
+# 🥽 Card Stats!
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=onyet&show_icons=true)
 
