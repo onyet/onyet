@@ -1,6 +1,5 @@
 <div align="center">
   <h1>𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐖𝐞'𝐫𝐞 <a href="https://onyet.github.io" target="_blank">𝐎𝐧𝐲𝐞𝐭.</a> 🙊</h1>
-  <h5><img src="https://pronoun.cyou/x/y?subject=Dian%20Mukti%20Wibowo&object=Farda%20Fitriyanti&height=20" alt="Dian Mukti Wibowo /  Farda Fitriyanti" /></h5>
   <img src="g6293.png" alt="Flying Onyet" width="300"/>
 </div>
 <br>
