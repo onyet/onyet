@@ -4,10 +4,6 @@
 </div>
 <br>
 
-# 🏆 GitHub Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=onyet&theme=dracula&margin-w=15&margin-h=15)
-
 # 🔥 GitHub Streak
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onyet&theme=dracula)
