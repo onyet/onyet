@@ -17,6 +17,5 @@
 If you have any questions, please contact us via email.
 
 - [onyetcorp@gmail.com](mailto:onyetcorp@gmail.com)
-- [mutelitcorp@gmail.com](mailto:mutelitcorp@gmail.com)
 
 ![Counter Profile](https://komarev.com/ghpvc/?username=onyet&color=ff69b4)
