@@ -4,14 +4,6 @@
 </div>
 <br>
 
-# 🔥 GitHub Streak
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onyet&theme=dracula)
-
-# 🥽 Card Stats!
-
-![github stats](https://github-readme-stats.vercel.app/api?username=onyet&show_icons=true&theme=dracula)
-
 # 📫 How to reach us
 
 If you have any questions, please contact us via email.
